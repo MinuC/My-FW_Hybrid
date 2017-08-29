@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MMPValidation">
+  <test name="MMPSmokeTest">
+    <classes>
+   	  <class name="com.mmp.tests.VerifyMMPHomePage"/>
+      <class name="com.mmp.tests.VerifyPatientLoginPage"/> 
+       
+    </classes>
+  </test> <!-- MMPSmokeTest -->
+</suite> <!-- MMPValidation -->
