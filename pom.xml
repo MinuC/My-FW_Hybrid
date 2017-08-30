@@ -76,7 +76,7 @@
 				<configuration>
 
 					<suiteXmlFiles>
-						<suiteXmlFile></suiteXmlFile>
+						<!--suiteXmlFile></suiteXmlFile-->
 						<suiteXmlFile>SmokeTest2.xml</suiteXmlFile>
 					</suiteXmlFiles>
 
